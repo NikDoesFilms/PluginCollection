@@ -1228,5 +1228,10 @@
         "jarName": "ChatFeelings.jar",
         "configName": "ChatFeelings",
         "freePlugin": true
+    },
     }
+	"name":"EZRanksPro",
+	"desc": "Gives Ranks",
+	"jarName": "EZRanksPro.jar",
+	"configName": "EzRanksPro"
 ]
